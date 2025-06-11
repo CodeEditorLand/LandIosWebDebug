@@ -31,7 +31,7 @@
         "gulp-tslint": "^8.1.4",
         "gulp-typescript": "^5.0.1",
         "gulp-util": "^3.0.8",
-        "mocha": "^11.5.0",
+        "mocha": "^11.6.0",
         "mockery": "^2.1.0",
         "sinon": "^20.0.0",
         "tslint": "^6.1.3",
